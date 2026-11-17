@@ -2,6 +2,53 @@
  "app": "twewy-coop",
  "versions": [
   {
+   "version": "1.8.4",
+   "date": "2026-11-17",
+   "notes": "Survol des rangs avec zoom et halo lumineux. Optimisations : launcher 4x plus léger (police allégée), versions installées dédoublonnées sur le disque, mémoire mieux libérée.",
+   "files": [
+    {
+     "name": "TWEWY Co-op.exe",
+     "sha256": "e2fd48042f6592b0a1c2f0a5f73eccc1373fe2d9a8c2b1b1c2b1164d63a47a70",
+     "size": 552448
+    },
+    {
+     "name": "discord_partner_sdk.dll",
+     "sha256": "f9953495b0d6263cc0b926e70f00adc2e3dda478e216ac6c8b36ba23840ab8ee",
+     "size": 9882040
+    },
+    {
+     "name": "TwewyCoop.dll",
+     "sha256": "7da207b5e0a48344a4b9386546ae64a6d96d8dbdf35212e6e88ce241fc83a5e1",
+     "size": 75776
+    },
+    {
+     "name": "Patcher.exe",
+     "sha256": "7cfc3c972d406fe1d1c2726e82d4a15dca7b4ffc907a8b5cdbd24b2154c75c7b",
+     "size": 19456
+    },
+    {
+     "name": "Mono.Cecil.dll",
+     "sha256": "71c8b01208ab37a5164f5bacd69054899db9fc00f2da87dbd07dc1ee40fc06a8",
+     "size": 360448
+    },
+    {
+     "name": "Mono.Cecil.Rocks.dll",
+     "sha256": "9db3edaa8bc6ccd7ac6e2517c743591658bd6bdd436a146e0eda101d30a1332e",
+     "size": 29696
+    },
+    {
+     "name": "Stub.exe",
+     "sha256": "ced14aa5c5f58e30662b15963468ef083b5be0dcc5b7bb08f35d28439990968f",
+     "size": 168448
+    },
+    {
+     "name": "OFL-Montserrat.txt",
+     "sha256": "8b7141c03fa4f8d44e6345d5d4931709290f0f67875e452e95ac1fd3a027802e",
+     "size": 4400
+    }
+   ]
+  },
+  {
    "version": "1.8.3",
    "date": "2026-11-17",
    "notes": "Cliquer sur un rang dans les règles joue son son (si les sons sont présents dans CoopMod\\sfx : rank1 à rank6, de E à l'étoile).",
@@ -783,5 +830,5 @@
    ]
   }
  ],
- "latest": "1.8.3"
+ "latest": "1.8.4"
 }
