@@ -2,6 +2,43 @@
  "app": "twewy-coop",
  "versions": [
   {
+   "version": "1.2.0",
+   "date": "2026-11-17",
+   "notes": "Launcher plus fluide (60 images/s, bande défilante et listes qui glissent, barre d'XP animée). Les succès de badges sont visibles tout de suite, rangés par section.",
+   "files": [
+    {
+     "name": "TWEWY Co-op.exe",
+     "sha256": "42fc40b4dc73cb41fffee6deb6961da957ee80b05afda6ec17c4aea58d26b42f",
+     "size": 155648
+    },
+    {
+     "name": "discord_partner_sdk.dll",
+     "sha256": "f9953495b0d6263cc0b926e70f00adc2e3dda478e216ac6c8b36ba23840ab8ee",
+     "size": 9882040
+    },
+    {
+     "name": "TwewyCoop.dll",
+     "sha256": "f0a90d6a0ba178b61bc14b6c8856f8aaa08967617de07d304f8de3569df18368",
+     "size": 67072
+    },
+    {
+     "name": "Patcher.exe",
+     "sha256": "36d8b1fb545849408d00f25b2457c97bcaf4990b23759dafcd3d3f79c71dfc0d",
+     "size": 19456
+    },
+    {
+     "name": "Mono.Cecil.dll",
+     "sha256": "71c8b01208ab37a5164f5bacd69054899db9fc00f2da87dbd07dc1ee40fc06a8",
+     "size": 360448
+    },
+    {
+     "name": "Mono.Cecil.Rocks.dll",
+     "sha256": "9db3edaa8bc6ccd7ac6e2517c743591658bd6bdd436a146e0eda101d30a1332e",
+     "size": 29696
+    }
+   ]
+  },
+  {
    "version": "1.1.0",
    "date": "2026-11-17",
    "notes": "Nouveaux succès : collection de badges (10, 30, 50 puis tous les 50, et la collection complète) et collection complète de chaque marque. Les succès en cours affichent ta progression.",
@@ -76,5 +113,5 @@
    ]
   }
  ],
- "latest": "1.1.0"
+ "latest": "1.2.0"
 }
