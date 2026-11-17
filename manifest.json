@@ -2,6 +2,53 @@
  "app": "twewy-coop",
  "versions": [
   {
+   "version": "1.6.1",
+   "date": "2026-11-17",
+   "notes": "Profil : badge de niveau sur fond noir, en-tête qui ne chevauche plus la barre d'XP, texte de la barre sur sa propre box.",
+   "files": [
+    {
+     "name": "TWEWY Co-op.exe",
+     "sha256": "f315e3e64522e1ef445363cda2efe5c6710e1fd62b3d036a0de7e80691675af7",
+     "size": 2162176
+    },
+    {
+     "name": "discord_partner_sdk.dll",
+     "sha256": "f9953495b0d6263cc0b926e70f00adc2e3dda478e216ac6c8b36ba23840ab8ee",
+     "size": 9882040
+    },
+    {
+     "name": "TwewyCoop.dll",
+     "sha256": "23fee8bca7e8f4e28273e833cc4b83cede634ff13fbace194fa1f9ae0943df71",
+     "size": 74752
+    },
+    {
+     "name": "Patcher.exe",
+     "sha256": "f7aa3449123a2e067e93619e45f4f72e89bd9e05b62d9ce01ab124958e395a74",
+     "size": 19456
+    },
+    {
+     "name": "Mono.Cecil.dll",
+     "sha256": "71c8b01208ab37a5164f5bacd69054899db9fc00f2da87dbd07dc1ee40fc06a8",
+     "size": 360448
+    },
+    {
+     "name": "Mono.Cecil.Rocks.dll",
+     "sha256": "9db3edaa8bc6ccd7ac6e2517c743591658bd6bdd436a146e0eda101d30a1332e",
+     "size": 29696
+    },
+    {
+     "name": "Stub.exe",
+     "sha256": "efc23fdfa702fe8fccaa591a27a244a4a0c860df3325d2561ae2e49b1461ea97",
+     "size": 168448
+    },
+    {
+     "name": "OFL-Montserrat.txt",
+     "sha256": "8b7141c03fa4f8d44e6345d5d4931709290f0f67875e452e95ac1fd3a027802e",
+     "size": 4400
+    }
+   ]
+  },
+  {
    "version": "1.6.0",
    "date": "2026-11-17",
    "notes": "Nouvelle DA « affiche de rue » : papier crème, contours épais, onglets en pilule, barre d'adresse, police Montserrat, boutons à ombre franche.",
@@ -407,5 +454,5 @@
    ]
   }
  ],
- "latest": "1.6.0"
+ "latest": "1.6.1"
 }
