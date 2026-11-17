@@ -2,6 +2,68 @@
  "app": "twewy-coop",
  "versions": [
   {
+   "version": "1.9.0",
+   "date": "2026-11-17",
+   "notes": "Musique YouTube partagée (onglet MUSIQUE, mini-lecteur au-dessus du jeu, menu F6 en jeu, file commune avec le J2) et onglet AMIS (temps joué ensemble, stats musicales, musiques préférées).",
+   "files": [
+    {
+     "name": "TWEWY Co-op.exe",
+     "sha256": "0488ff350418244e9759d5fad92ad1204e8e89429c8e9dc9087f1b4cdd15cb1c",
+     "size": 621056
+    },
+    {
+     "name": "discord_partner_sdk.dll",
+     "sha256": "f9953495b0d6263cc0b926e70f00adc2e3dda478e216ac6c8b36ba23840ab8ee",
+     "size": 9882040
+    },
+    {
+     "name": "TwewyCoop.dll",
+     "sha256": "7c8787eb6444f54911e1690a5bbd623908c5e8c73b5bf6b0faf2a34e1dad52b6",
+     "size": 83456
+    },
+    {
+     "name": "Patcher.exe",
+     "sha256": "970326c25d2357998863f47c5299f3d849bfba4ef56151359f3c7fe00f0d69ad",
+     "size": 19456
+    },
+    {
+     "name": "Mono.Cecil.dll",
+     "sha256": "71c8b01208ab37a5164f5bacd69054899db9fc00f2da87dbd07dc1ee40fc06a8",
+     "size": 360448
+    },
+    {
+     "name": "Mono.Cecil.Rocks.dll",
+     "sha256": "9db3edaa8bc6ccd7ac6e2517c743591658bd6bdd436a146e0eda101d30a1332e",
+     "size": 29696
+    },
+    {
+     "name": "Stub.exe",
+     "sha256": "23ad497f12f306f521bc3a5fdc24e78213fc851ab9f2fe0294b4cbbc91f10c5a",
+     "size": 168448
+    },
+    {
+     "name": "OFL-Montserrat.txt",
+     "sha256": "8b7141c03fa4f8d44e6345d5d4931709290f0f67875e452e95ac1fd3a027802e",
+     "size": 4400
+    },
+    {
+     "name": "Microsoft.Web.WebView2.Core.dll",
+     "sha256": "d60e6e94245078cb56e44ebd5f360dc04bf18e460136be93bfc4cfca43b98505",
+     "size": 698208
+    },
+    {
+     "name": "Microsoft.Web.WebView2.WinForms.dll",
+     "sha256": "6a9e6856f23c463783c3afb0ca5d78f56324c86657162ccb16d5227b3233b32a",
+     "size": 38752
+    },
+    {
+     "name": "WebView2Loader.dll",
+     "sha256": "3426dcc55fdfb8b5e7ac623cf33b4ccf283fbf68a0c5a65bddfdb4d749a8abee",
+     "size": 194912
+    }
+   ]
+  },
+  {
    "version": "1.8.4",
    "date": "2026-11-17",
    "notes": "Survol des rangs avec zoom et halo lumineux. Optimisations : launcher 4x plus léger (police allégée), versions installées dédoublonnées sur le disque, mémoire mieux libérée.",
@@ -830,5 +892,5 @@
    ]
   }
  ],
- "latest": "1.8.4"
+ "latest": "1.9.0"
 }
