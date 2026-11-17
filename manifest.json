@@ -2,6 +2,43 @@
  "app": "twewy-coop",
  "versions": [
   {
+   "version": "1.1.0",
+   "date": "2026-11-17",
+   "notes": "Nouveaux succès : collection de badges (10, 30, 50 puis tous les 50, et la collection complète) et collection complète de chaque marque. Les succès en cours affichent ta progression.",
+   "files": [
+    {
+     "name": "TWEWY Co-op.exe",
+     "sha256": "39db45913ca8bfaf64df7b8a2bf59cf53995ff8cb519240fb0cf24008a369104",
+     "size": 152064
+    },
+    {
+     "name": "discord_partner_sdk.dll",
+     "sha256": "f9953495b0d6263cc0b926e70f00adc2e3dda478e216ac6c8b36ba23840ab8ee",
+     "size": 9882040
+    },
+    {
+     "name": "TwewyCoop.dll",
+     "sha256": "b3ef70ed7d8e7df850fde9c28805f77853327d44710d0b699b20a2ddda8b3d04",
+     "size": 67072
+    },
+    {
+     "name": "Patcher.exe",
+     "sha256": "3eb4cdb8570bbb480163eca11c48731292bb1a8f01a3cc7175a2736a01d6c466",
+     "size": 19456
+    },
+    {
+     "name": "Mono.Cecil.dll",
+     "sha256": "71c8b01208ab37a5164f5bacd69054899db9fc00f2da87dbd07dc1ee40fc06a8",
+     "size": 360448
+    },
+    {
+     "name": "Mono.Cecil.Rocks.dll",
+     "sha256": "9db3edaa8bc6ccd7ac6e2517c743591658bd6bdd436a146e0eda101d30a1332e",
+     "size": 29696
+    }
+   ]
+  },
+  {
    "version": "1.0.0",
    "date": "2026-11-17",
    "notes": "Première version : co-op J2 local et en ligne, launcher Discord, succès des chapitres, profil et feed CHIBI.",
@@ -39,5 +76,5 @@
    ]
   }
  ],
- "latest": "1.0.0"
+ "latest": "1.1.0"
 }
