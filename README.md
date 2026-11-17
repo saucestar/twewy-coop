@@ -7,4 +7,4 @@ l'installeur applique le mod à ta propre copie et garde l'original intact.
 2. Choisis le dossier du jeu (celui qui contient `TWEWY Solo.exe`) → *Installer*
 3. Lance **TWEWY Co-op** : les mises à jour te seront proposées dans l'onglet JOUER.
 
-Dernière version : **1.4.1** — Launcher beaucoup plus fluide, surtout en plein écran : le fond, la liste des succès, le feed et le survol des cartes ne redessinent plus que ce qui change.
+Dernière version : **1.5.0** — Mission du jour : 24 min dès que ta sauvegarde est chargée pour faire un max de points (quêtes 300 pts, 50 pts par ennemi, bonus selon le rang). Nouvel onglet Classement, et chrono en jeu.

@@ -2,6 +2,48 @@
  "app": "twewy-coop",
  "versions": [
   {
+   "version": "1.5.0",
+   "date": "2026-11-17",
+   "notes": "Mission du jour : 24 min dès que ta sauvegarde est chargée pour faire un max de points (quêtes 300 pts, 50 pts par ennemi, bonus selon le rang). Nouvel onglet Classement, et chrono en jeu.",
+   "files": [
+    {
+     "name": "TWEWY Co-op.exe",
+     "sha256": "6778756fc255473056d42022380d0d2c3e662114e535d10baed63d2a6b1f25c9",
+     "size": 312320
+    },
+    {
+     "name": "discord_partner_sdk.dll",
+     "sha256": "f9953495b0d6263cc0b926e70f00adc2e3dda478e216ac6c8b36ba23840ab8ee",
+     "size": 9882040
+    },
+    {
+     "name": "TwewyCoop.dll",
+     "sha256": "40366bbe6984b609c616f1cb8910e55d1634024fe63dc0f6561bcce8bf2c74d5",
+     "size": 74752
+    },
+    {
+     "name": "Patcher.exe",
+     "sha256": "47ae93e629c3564dfb1b4da3b5340634bc645aafb34c0cbc4948e6f4707c1467",
+     "size": 19456
+    },
+    {
+     "name": "Mono.Cecil.dll",
+     "sha256": "71c8b01208ab37a5164f5bacd69054899db9fc00f2da87dbd07dc1ee40fc06a8",
+     "size": 360448
+    },
+    {
+     "name": "Mono.Cecil.Rocks.dll",
+     "sha256": "9db3edaa8bc6ccd7ac6e2517c743591658bd6bdd436a146e0eda101d30a1332e",
+     "size": 29696
+    },
+    {
+     "name": "Stub.exe",
+     "sha256": "3041daeb59aa52617685a915464fba52d03db2a223f5bae8f9848c83abf4f9da",
+     "size": 168448
+    }
+   ]
+  },
+  {
    "version": "1.4.1",
    "date": "2026-11-17",
    "notes": "Launcher beaucoup plus fluide, surtout en plein écran : le fond, la liste des succès, le feed et le survol des cartes ne redessinent plus que ce qui change.",
@@ -318,5 +360,5 @@
    ]
   }
  ],
- "latest": "1.4.1"
+ "latest": "1.5.0"
 }
