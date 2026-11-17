@@ -7,4 +7,4 @@ l'installeur applique le mod à ta propre copie et garde l'original intact.
 2. Choisis le dossier du jeu (celui qui contient `TWEWY Solo.exe`) → *Installer*
 3. Lance **TWEWY Co-op** : les mises à jour te seront proposées dans l'onglet JOUER.
 
-Dernière version : **1.8.1** — Badges de rang plus propres : contour noir extérieur seulement, plus de traces noires à l'intérieur.
+Dernière version : **1.8.2** — Les règles apparaissent en fondu glissé (et disparaissent en fondu), rangs classés du plus faible au plus fort.
