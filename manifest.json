@@ -2,6 +2,53 @@
  "app": "twewy-coop",
  "versions": [
   {
+   "version": "1.8.0",
+   "date": "2026-11-17",
+   "notes": "Bouton « Voir les règles » dans la mission du jour : les règles s'affichent au centre sur le launcher flouté, avec les badges de rang.",
+   "files": [
+    {
+     "name": "TWEWY Co-op.exe",
+     "sha256": "664dafc2bfaf564ded5476b54757422695bf95e75613639e1388609bba0c85b3",
+     "size": 2189312
+    },
+    {
+     "name": "discord_partner_sdk.dll",
+     "sha256": "f9953495b0d6263cc0b926e70f00adc2e3dda478e216ac6c8b36ba23840ab8ee",
+     "size": 9882040
+    },
+    {
+     "name": "TwewyCoop.dll",
+     "sha256": "c7cca217ae10c81540d0bec0428b14250174e197f1ec03d2c3417db195b126ad",
+     "size": 75776
+    },
+    {
+     "name": "Patcher.exe",
+     "sha256": "2178ef07c05fe4f75f9ac3a93fef5acf9884ca0a8c2081abcc368faa83beff3f",
+     "size": 19456
+    },
+    {
+     "name": "Mono.Cecil.dll",
+     "sha256": "71c8b01208ab37a5164f5bacd69054899db9fc00f2da87dbd07dc1ee40fc06a8",
+     "size": 360448
+    },
+    {
+     "name": "Mono.Cecil.Rocks.dll",
+     "sha256": "9db3edaa8bc6ccd7ac6e2517c743591658bd6bdd436a146e0eda101d30a1332e",
+     "size": 29696
+    },
+    {
+     "name": "Stub.exe",
+     "sha256": "191ed4ec1863fbd95e2a315a36d5e65cf8b35f580a200345c091624fe1097134",
+     "size": 168448
+    },
+    {
+     "name": "OFL-Montserrat.txt",
+     "sha256": "8b7141c03fa4f8d44e6345d5d4931709290f0f67875e452e95ac1fd3a027802e",
+     "size": 4400
+    }
+   ]
+  },
+  {
    "version": "1.7.2",
    "date": "2026-11-17",
    "notes": "Plus de plein écran : la fenêtre ne se maximise plus et reste sous 1400 x 900 pour garder des animations fluides.",
@@ -595,5 +642,5 @@
    ]
   }
  ],
- "latest": "1.7.2"
+ "latest": "1.8.0"
 }
