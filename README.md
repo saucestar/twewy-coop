@@ -7,4 +7,4 @@ l'installeur applique le mod à ta propre copie et garde l'original intact.
 2. Choisis le dossier du jeu (celui qui contient `TWEWY Solo.exe`) → *Installer*
 3. Lance **TWEWY Co-op** : les mises à jour te seront proposées dans l'onglet JOUER.
 
-Dernière version : **1.9.0** — Musique YouTube partagée (onglet MUSIQUE, mini-lecteur au-dessus du jeu, menu F6 en jeu, file commune avec le J2) et onglet AMIS (temps joué ensemble, stats musicales, musiques préférées).
+Dernière version : **1.9.1** — Lecteur : la vidéo suit le launcher sans décalage et ne s'affiche plus vide ; connexion YouTube plus fiable (bouton Annuler, diagnostic) ; une mise à jour n'est plus interrompue au démarrage ; nettoyage de stats de test.

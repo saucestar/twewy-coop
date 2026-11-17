@@ -2,6 +2,68 @@
  "app": "twewy-coop",
  "versions": [
   {
+   "version": "1.9.1",
+   "date": "2026-11-17",
+   "notes": "Lecteur : la vidéo suit le launcher sans décalage et ne s'affiche plus vide ; connexion YouTube plus fiable (bouton Annuler, diagnostic) ; une mise à jour n'est plus interrompue au démarrage ; nettoyage de stats de test.",
+   "files": [
+    {
+     "name": "TWEWY Co-op.exe",
+     "sha256": "d689f4fd1b228c80e0585fbda68f14999c58fbb785d96e1cdd030faf5c04f2f4",
+     "size": 623616
+    },
+    {
+     "name": "discord_partner_sdk.dll",
+     "sha256": "f9953495b0d6263cc0b926e70f00adc2e3dda478e216ac6c8b36ba23840ab8ee",
+     "size": 9882040
+    },
+    {
+     "name": "TwewyCoop.dll",
+     "sha256": "19d697fbabcf6a19347c3fe582271fa784d445cf38c47164de8905e565c55bc4",
+     "size": 83456
+    },
+    {
+     "name": "Patcher.exe",
+     "sha256": "8bea86984eea0002af65f1fb3d73759db667e3ffa589f4c294e6092d53b42216",
+     "size": 19456
+    },
+    {
+     "name": "Mono.Cecil.dll",
+     "sha256": "71c8b01208ab37a5164f5bacd69054899db9fc00f2da87dbd07dc1ee40fc06a8",
+     "size": 360448
+    },
+    {
+     "name": "Mono.Cecil.Rocks.dll",
+     "sha256": "9db3edaa8bc6ccd7ac6e2517c743591658bd6bdd436a146e0eda101d30a1332e",
+     "size": 29696
+    },
+    {
+     "name": "Stub.exe",
+     "sha256": "8cf641af21ee5f8880d01c3ca4f3b1977cf1598e93252e8394860ff880932c35",
+     "size": 168448
+    },
+    {
+     "name": "OFL-Montserrat.txt",
+     "sha256": "8b7141c03fa4f8d44e6345d5d4931709290f0f67875e452e95ac1fd3a027802e",
+     "size": 4400
+    },
+    {
+     "name": "Microsoft.Web.WebView2.Core.dll",
+     "sha256": "d60e6e94245078cb56e44ebd5f360dc04bf18e460136be93bfc4cfca43b98505",
+     "size": 698208
+    },
+    {
+     "name": "Microsoft.Web.WebView2.WinForms.dll",
+     "sha256": "6a9e6856f23c463783c3afb0ca5d78f56324c86657162ccb16d5227b3233b32a",
+     "size": 38752
+    },
+    {
+     "name": "WebView2Loader.dll",
+     "sha256": "3426dcc55fdfb8b5e7ac623cf33b4ccf283fbf68a0c5a65bddfdb4d749a8abee",
+     "size": 194912
+    }
+   ]
+  },
+  {
    "version": "1.9.0",
    "date": "2026-11-17",
    "notes": "Musique YouTube partagée (onglet MUSIQUE, mini-lecteur au-dessus du jeu, menu F6 en jeu, file commune avec le J2) et onglet AMIS (temps joué ensemble, stats musicales, musiques préférées).",
@@ -892,5 +954,5 @@
    ]
   }
  ],
- "latest": "1.9.0"
+ "latest": "1.9.1"
 }
