@@ -7,4 +7,4 @@ l'installeur applique le mod à ta propre copie et garde l'original intact.
 2. Choisis le dossier du jeu (celui qui contient `TWEWY Solo.exe`) → *Installer*
 3. Lance **TWEWY Co-op** : les mises à jour te seront proposées dans l'onglet JOUER.
 
-Dernière version : **1.3.0** — Profils des joueurs : bouton « Joueurs » dans PROFIL (ou double-clic sur un membre dans Amis, ou clic sur un auteur du feed) pour voir le niveau, les succès et la progression des autres.
+Dernière version : **1.4.0** — Quêtes du jour (lancer le jeu, remporter 5 combats, récupérer 5 badges différents) avec XP à la clé. Les Noise battus reviennent à chaque lancement du jeu.
