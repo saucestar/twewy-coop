@@ -2,6 +2,53 @@
  "app": "twewy-coop",
  "versions": [
   {
+   "version": "1.8.1",
+   "date": "2026-11-17",
+   "notes": "Badges de rang plus propres : contour noir extérieur seulement, plus de traces noires à l'intérieur.",
+   "files": [
+    {
+     "name": "TWEWY Co-op.exe",
+     "sha256": "e4e243cf1bb4e5d685a822aec94799a6206aa67b2c4bccd74f0367a94d06cf4b",
+     "size": 2189312
+    },
+    {
+     "name": "discord_partner_sdk.dll",
+     "sha256": "f9953495b0d6263cc0b926e70f00adc2e3dda478e216ac6c8b36ba23840ab8ee",
+     "size": 9882040
+    },
+    {
+     "name": "TwewyCoop.dll",
+     "sha256": "baa644d3a8d84143f85564a6ed61107ecbd8e798f3569a63486d6c7a2e6da9cd",
+     "size": 75776
+    },
+    {
+     "name": "Patcher.exe",
+     "sha256": "72843c635e2493404641e9a3028f848b216298707da9d98e7a18c4f4acc399d5",
+     "size": 19456
+    },
+    {
+     "name": "Mono.Cecil.dll",
+     "sha256": "71c8b01208ab37a5164f5bacd69054899db9fc00f2da87dbd07dc1ee40fc06a8",
+     "size": 360448
+    },
+    {
+     "name": "Mono.Cecil.Rocks.dll",
+     "sha256": "9db3edaa8bc6ccd7ac6e2517c743591658bd6bdd436a146e0eda101d30a1332e",
+     "size": 29696
+    },
+    {
+     "name": "Stub.exe",
+     "sha256": "dfc7445e620b32871cc86dbaab987a86c03f92afd9d02ace2419587b4a8ee1a8",
+     "size": 168448
+    },
+    {
+     "name": "OFL-Montserrat.txt",
+     "sha256": "8b7141c03fa4f8d44e6345d5d4931709290f0f67875e452e95ac1fd3a027802e",
+     "size": 4400
+    }
+   ]
+  },
+  {
    "version": "1.8.0",
    "date": "2026-11-17",
    "notes": "Bouton « Voir les règles » dans la mission du jour : les règles s'affichent au centre sur le launcher flouté, avec les badges de rang.",
@@ -642,5 +689,5 @@
    ]
   }
  ],
- "latest": "1.8.0"
+ "latest": "1.8.1"
 }
