@@ -2,6 +2,53 @@
  "app": "twewy-coop",
  "versions": [
   {
+   "version": "1.7.1",
+   "date": "2026-11-17",
+   "notes": "Installeur traduit en anglais (il suit la langue choisie dans le launcher, sinon celle de Windows).",
+   "files": [
+    {
+     "name": "TWEWY Co-op.exe",
+     "sha256": "5f1516b3b8994a1365289027b9309d772a3acb1fc2c8341836fcce87e101348f",
+     "size": 2180608
+    },
+    {
+     "name": "discord_partner_sdk.dll",
+     "sha256": "f9953495b0d6263cc0b926e70f00adc2e3dda478e216ac6c8b36ba23840ab8ee",
+     "size": 9882040
+    },
+    {
+     "name": "TwewyCoop.dll",
+     "sha256": "ceb8e537455263bc328456c1b46906b4deb999a0c87a4db58bce2435e1b446bb",
+     "size": 75776
+    },
+    {
+     "name": "Patcher.exe",
+     "sha256": "ebb928882ab7e12422556089f5a0abd17d10798f6d7b55ee38404680c122f3a7",
+     "size": 19456
+    },
+    {
+     "name": "Mono.Cecil.dll",
+     "sha256": "71c8b01208ab37a5164f5bacd69054899db9fc00f2da87dbd07dc1ee40fc06a8",
+     "size": 360448
+    },
+    {
+     "name": "Mono.Cecil.Rocks.dll",
+     "sha256": "9db3edaa8bc6ccd7ac6e2517c743591658bd6bdd436a146e0eda101d30a1332e",
+     "size": 29696
+    },
+    {
+     "name": "Stub.exe",
+     "sha256": "dfaf311acf45efe45f066ddb5ded332863cce1c34a028db31e90a45d3da229fa",
+     "size": 168448
+    },
+    {
+     "name": "OFL-Montserrat.txt",
+     "sha256": "8b7141c03fa4f8d44e6345d5d4931709290f0f67875e452e95ac1fd3a027802e",
+     "size": 4400
+    }
+   ]
+  },
+  {
    "version": "1.7.0",
    "date": "2026-11-17",
    "notes": "Launcher en anglais : bouton FR / EN en haut (la première fois, la langue de Windows est utilisée). Le chrono en jeu suit aussi la langue.",
@@ -501,5 +548,5 @@
    ]
   }
  ],
- "latest": "1.7.0"
+ "latest": "1.7.1"
 }
