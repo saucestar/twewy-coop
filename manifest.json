@@ -2,6 +2,53 @@
  "app": "twewy-coop",
  "versions": [
   {
+   "version": "1.6.0",
+   "date": "2026-11-17",
+   "notes": "Nouvelle DA « affiche de rue » : papier crème, contours épais, onglets en pilule, barre d'adresse, police Montserrat, boutons à ombre franche.",
+   "files": [
+    {
+     "name": "TWEWY Co-op.exe",
+     "sha256": "20d002e3b702db652925ea3ba9342c4e52b84b078ee5ce5f9e3213f17233292f",
+     "size": 2161664
+    },
+    {
+     "name": "discord_partner_sdk.dll",
+     "sha256": "f9953495b0d6263cc0b926e70f00adc2e3dda478e216ac6c8b36ba23840ab8ee",
+     "size": 9882040
+    },
+    {
+     "name": "TwewyCoop.dll",
+     "sha256": "2e7df5951ed3b33930b19bf169015969dd6e29a918ed79fe65e6fc3a34a334c0",
+     "size": 74752
+    },
+    {
+     "name": "Patcher.exe",
+     "sha256": "f31508e1f02d6461e5505aa4607bbc260786dd9b0ea747fbdaf67e6c625d73ab",
+     "size": 19456
+    },
+    {
+     "name": "Mono.Cecil.dll",
+     "sha256": "71c8b01208ab37a5164f5bacd69054899db9fc00f2da87dbd07dc1ee40fc06a8",
+     "size": 360448
+    },
+    {
+     "name": "Mono.Cecil.Rocks.dll",
+     "sha256": "9db3edaa8bc6ccd7ac6e2517c743591658bd6bdd436a146e0eda101d30a1332e",
+     "size": 29696
+    },
+    {
+     "name": "Stub.exe",
+     "sha256": "d1b097a541cf6126c5efd0134eae890c1cc639a7bbf579b7eb1c84ad412c48d7",
+     "size": 168448
+    },
+    {
+     "name": "OFL-Montserrat.txt",
+     "sha256": "8b7141c03fa4f8d44e6345d5d4931709290f0f67875e452e95ac1fd3a027802e",
+     "size": 4400
+    }
+   ]
+  },
+  {
    "version": "1.5.0",
    "date": "2026-11-17",
    "notes": "Mission du jour : 24 min dès que ta sauvegarde est chargée pour faire un max de points (quêtes 300 pts, 50 pts par ennemi, bonus selon le rang). Nouvel onglet Classement, et chrono en jeu.",
@@ -360,5 +407,5 @@
    ]
   }
  ],
- "latest": "1.5.0"
+ "latest": "1.6.0"
 }
