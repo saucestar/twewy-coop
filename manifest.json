@@ -2,6 +2,53 @@
  "app": "twewy-coop",
  "versions": [
   {
+   "version": "1.8.3",
+   "date": "2026-11-17",
+   "notes": "Cliquer sur un rang dans les règles joue son son (si les sons sont présents dans CoopMod\\sfx : rank1 à rank6, de E à l'étoile).",
+   "files": [
+    {
+     "name": "TWEWY Co-op.exe",
+     "sha256": "94e4e3672d75841c0a51394cbaa5fd2f97ca881b9abc34943abf50f22c5f74b1",
+     "size": 2192896
+    },
+    {
+     "name": "discord_partner_sdk.dll",
+     "sha256": "f9953495b0d6263cc0b926e70f00adc2e3dda478e216ac6c8b36ba23840ab8ee",
+     "size": 9882040
+    },
+    {
+     "name": "TwewyCoop.dll",
+     "sha256": "2c7e5b44a35e5d7ec69da34a90fb828471485c9abe99063b4441d4b17acec6cf",
+     "size": 75776
+    },
+    {
+     "name": "Patcher.exe",
+     "sha256": "01d1f8fdc3f52456500d5b5d4cd3d3700f0735b2dd34013fa03186757455c875",
+     "size": 19456
+    },
+    {
+     "name": "Mono.Cecil.dll",
+     "sha256": "71c8b01208ab37a5164f5bacd69054899db9fc00f2da87dbd07dc1ee40fc06a8",
+     "size": 360448
+    },
+    {
+     "name": "Mono.Cecil.Rocks.dll",
+     "sha256": "9db3edaa8bc6ccd7ac6e2517c743591658bd6bdd436a146e0eda101d30a1332e",
+     "size": 29696
+    },
+    {
+     "name": "Stub.exe",
+     "sha256": "eb07edd97104d473085bc7d65e42446b7a9fd9538682684a4080060bab5b7548",
+     "size": 168448
+    },
+    {
+     "name": "OFL-Montserrat.txt",
+     "sha256": "8b7141c03fa4f8d44e6345d5d4931709290f0f67875e452e95ac1fd3a027802e",
+     "size": 4400
+    }
+   ]
+  },
+  {
    "version": "1.8.2",
    "date": "2026-11-17",
    "notes": "Les règles apparaissent en fondu glissé (et disparaissent en fondu), rangs classés du plus faible au plus fort.",
@@ -736,5 +783,5 @@
    ]
   }
  ],
- "latest": "1.8.2"
+ "latest": "1.8.3"
 }
