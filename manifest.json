@@ -2,6 +2,53 @@
  "app": "twewy-coop",
  "versions": [
   {
+   "version": "1.7.2",
+   "date": "2026-11-17",
+   "notes": "Plus de plein écran : la fenêtre ne se maximise plus et reste sous 1400 x 900 pour garder des animations fluides.",
+   "files": [
+    {
+     "name": "TWEWY Co-op.exe",
+     "sha256": "63cab21e04790a116833100b0da1809270b9db2403f7705aec0745d4c679ac74",
+     "size": 2180608
+    },
+    {
+     "name": "discord_partner_sdk.dll",
+     "sha256": "f9953495b0d6263cc0b926e70f00adc2e3dda478e216ac6c8b36ba23840ab8ee",
+     "size": 9882040
+    },
+    {
+     "name": "TwewyCoop.dll",
+     "sha256": "33e2ad54ee95c961352baed36e03c7c8221f4c9ccad95344ddd72dac5ea7a266",
+     "size": 75776
+    },
+    {
+     "name": "Patcher.exe",
+     "sha256": "23964dc196842a499a2282f0ac1d20168525f19ae746c9dbc8f92f60a62b011e",
+     "size": 19456
+    },
+    {
+     "name": "Mono.Cecil.dll",
+     "sha256": "71c8b01208ab37a5164f5bacd69054899db9fc00f2da87dbd07dc1ee40fc06a8",
+     "size": 360448
+    },
+    {
+     "name": "Mono.Cecil.Rocks.dll",
+     "sha256": "9db3edaa8bc6ccd7ac6e2517c743591658bd6bdd436a146e0eda101d30a1332e",
+     "size": 29696
+    },
+    {
+     "name": "Stub.exe",
+     "sha256": "5772267918fcbdb8bedd63fc0e54efbc50a6c9031462eec30d2801f8ceebe457",
+     "size": 168448
+    },
+    {
+     "name": "OFL-Montserrat.txt",
+     "sha256": "8b7141c03fa4f8d44e6345d5d4931709290f0f67875e452e95ac1fd3a027802e",
+     "size": 4400
+    }
+   ]
+  },
+  {
    "version": "1.7.1",
    "date": "2026-11-17",
    "notes": "Installeur traduit en anglais (il suit la langue choisie dans le launcher, sinon celle de Windows).",
@@ -548,5 +595,5 @@
    ]
   }
  ],
- "latest": "1.7.1"
+ "latest": "1.7.2"
 }
