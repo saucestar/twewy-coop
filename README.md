@@ -7,4 +7,4 @@ l'installeur applique le mod à ta propre copie et garde l'original intact.
 2. Choisis le dossier du jeu (celui qui contient `TWEWY Solo.exe`) → *Installer*
 3. Lance **TWEWY Co-op** : les mises à jour te seront proposées dans l'onglet JOUER.
 
-Dernière version : **1.2.0** — Launcher plus fluide (60 images/s, bande défilante et listes qui glissent, barre d'XP animée). Les succès de badges sont visibles tout de suite, rangés par section.
+Dernière version : **1.2.1** — Hover des succès fluide (chaque ligne s'allume et s'éteint en douceur) et animation du fond deux fois moins coûteuse.
