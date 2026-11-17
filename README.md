@@ -7,4 +7,4 @@ l'installeur applique le mod à ta propre copie et garde l'original intact.
 2. Choisis le dossier du jeu (celui qui contient `TWEWY Solo.exe`) → *Installer*
 3. Lance **TWEWY Co-op** : les mises à jour te seront proposées dans l'onglet JOUER.
 
-Dernière version : **1.9.2** — Statut Discord « Écoute » pendant la musique du launcher (titre, miniature, progression, partenaire) ; en hébergeant, la musique s'affiche sous la partie co-op.
+Dernière version : **1.9.3** — Quête du jour : récupérer 15 badges (doublons compris) au lieu de 5 badges différents, appliqué aussi aux combats déjà joués ; le jeu note désormais la quantité de chaque badge obtenu.

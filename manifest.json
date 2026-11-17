@@ -2,6 +2,68 @@
  "app": "twewy-coop",
  "versions": [
   {
+   "version": "1.9.3",
+   "date": "2026-11-18",
+   "notes": "Quête du jour : récupérer 15 badges (doublons compris) au lieu de 5 badges différents, appliqué aussi aux combats déjà joués ; le jeu note désormais la quantité de chaque badge obtenu.",
+   "files": [
+    {
+     "name": "TWEWY Co-op.exe",
+     "sha256": "9b8b1798adf59f9a2301daf8614fcc44e929cda3c0c9cdb48054a093f46f7c69",
+     "size": 626688
+    },
+    {
+     "name": "discord_partner_sdk.dll",
+     "sha256": "f9953495b0d6263cc0b926e70f00adc2e3dda478e216ac6c8b36ba23840ab8ee",
+     "size": 9882040
+    },
+    {
+     "name": "TwewyCoop.dll",
+     "sha256": "99f0ba731305f54bf8db7b2f9bc0a617429db344ec36dafa83e759f5174856a5",
+     "size": 83968
+    },
+    {
+     "name": "Patcher.exe",
+     "sha256": "69c9cada465dabc2ab9021985dbf6a2721098b8b4953912253f9e1e95772e110",
+     "size": 19456
+    },
+    {
+     "name": "Mono.Cecil.dll",
+     "sha256": "71c8b01208ab37a5164f5bacd69054899db9fc00f2da87dbd07dc1ee40fc06a8",
+     "size": 360448
+    },
+    {
+     "name": "Mono.Cecil.Rocks.dll",
+     "sha256": "9db3edaa8bc6ccd7ac6e2517c743591658bd6bdd436a146e0eda101d30a1332e",
+     "size": 29696
+    },
+    {
+     "name": "Stub.exe",
+     "sha256": "fb80cab3450b40beff0f496787b571c152c0ebc2a34a7f7d6c8a6f8540c40df9",
+     "size": 168448
+    },
+    {
+     "name": "OFL-Montserrat.txt",
+     "sha256": "8b7141c03fa4f8d44e6345d5d4931709290f0f67875e452e95ac1fd3a027802e",
+     "size": 4400
+    },
+    {
+     "name": "Microsoft.Web.WebView2.Core.dll",
+     "sha256": "d60e6e94245078cb56e44ebd5f360dc04bf18e460136be93bfc4cfca43b98505",
+     "size": 698208
+    },
+    {
+     "name": "Microsoft.Web.WebView2.WinForms.dll",
+     "sha256": "6a9e6856f23c463783c3afb0ca5d78f56324c86657162ccb16d5227b3233b32a",
+     "size": 38752
+    },
+    {
+     "name": "WebView2Loader.dll",
+     "sha256": "3426dcc55fdfb8b5e7ac623cf33b4ccf283fbf68a0c5a65bddfdb4d749a8abee",
+     "size": 194912
+    }
+   ]
+  },
+  {
    "version": "1.9.2",
    "date": "2026-11-18",
    "notes": "Statut Discord « Écoute » pendant la musique du launcher (titre, miniature, progression, partenaire) ; en hébergeant, la musique s'affiche sous la partie co-op.",
@@ -1016,5 +1078,5 @@
    ]
   }
  ],
- "latest": "1.9.2"
+ "latest": "1.9.3"
 }
