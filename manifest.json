@@ -2,6 +2,68 @@
  "app": "twewy-coop",
  "versions": [
   {
+   "version": "1.14.0",
+   "date": "2026-11-18",
+   "notes": "Appli téléphone : tes playlists (YouTube + Spotify importées) sont synchronisées avec la page Musique de l'appli, et les playlists Spotify importées sur le téléphone arrivent dans le launcher.",
+   "files": [
+    {
+     "name": "TWEWY Co-op.exe",
+     "sha256": "50907d0b8ffedaf040d2d6de75ed9ccb8ae057e6eb5a085bab553b1f21344c7f",
+     "size": 670208
+    },
+    {
+     "name": "discord_partner_sdk.dll",
+     "sha256": "f9953495b0d6263cc0b926e70f00adc2e3dda478e216ac6c8b36ba23840ab8ee",
+     "size": 9882040
+    },
+    {
+     "name": "TwewyCoop.dll",
+     "sha256": "90eee1b6e059ce95c26840e24ddb0818fac91b3aae9ff4870cc59111f3200569",
+     "size": 96768
+    },
+    {
+     "name": "Patcher.exe",
+     "sha256": "7578bf4836d5b00430602675fd460a0481daf67482143d6f7509396e413814c5",
+     "size": 20992
+    },
+    {
+     "name": "Mono.Cecil.dll",
+     "sha256": "71c8b01208ab37a5164f5bacd69054899db9fc00f2da87dbd07dc1ee40fc06a8",
+     "size": 360448
+    },
+    {
+     "name": "Mono.Cecil.Rocks.dll",
+     "sha256": "9db3edaa8bc6ccd7ac6e2517c743591658bd6bdd436a146e0eda101d30a1332e",
+     "size": 29696
+    },
+    {
+     "name": "Stub.exe",
+     "sha256": "63ffef871db08005e24afae87216cf7f5f0163ab68ec776ba2c64527ff3921b6",
+     "size": 168448
+    },
+    {
+     "name": "OFL-Montserrat.txt",
+     "sha256": "8b7141c03fa4f8d44e6345d5d4931709290f0f67875e452e95ac1fd3a027802e",
+     "size": 4400
+    },
+    {
+     "name": "Microsoft.Web.WebView2.Core.dll",
+     "sha256": "d60e6e94245078cb56e44ebd5f360dc04bf18e460136be93bfc4cfca43b98505",
+     "size": 698208
+    },
+    {
+     "name": "Microsoft.Web.WebView2.WinForms.dll",
+     "sha256": "6a9e6856f23c463783c3afb0ca5d78f56324c86657162ccb16d5227b3233b32a",
+     "size": 38752
+    },
+    {
+     "name": "WebView2Loader.dll",
+     "sha256": "3426dcc55fdfb8b5e7ac623cf33b4ccf283fbf68a0c5a65bddfdb4d749a8abee",
+     "size": 194912
+    }
+   ]
+  },
+  {
    "version": "1.13.1",
    "date": "2026-11-18",
    "notes": "Menu musique F6 : lecteur MP3 dessiné (écran avec le titre en cours, molette pause / suivant), plus besoin d'image de fond.",
@@ -1636,5 +1698,5 @@
    ]
   }
  ],
- "latest": "1.13.1"
+ "latest": "1.14.0"
 }
