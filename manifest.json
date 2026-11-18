@@ -2,6 +2,68 @@
  "app": "twewy-coop",
  "versions": [
   {
+   "version": "1.10.0",
+   "date": "2026-11-18",
+   "notes": "Menu F5 du J2 refait : seulement les pins du partenaire joué (Shiki, Joshua, Beat). Synchro x1,5 quand le duo écoute de la musique ensemble. Import de playlists Spotify vers YouTube. Mini-lecteur désactivé = plus aucune fenêtre. Les playlists apparaissent enfin dans le menu F6.",
+   "files": [
+    {
+     "name": "TWEWY Co-op.exe",
+     "sha256": "cf4c257caf0932a0f6993b6766376dd01b80647a3243716a03c4c93caaa86a55",
+     "size": 640000
+    },
+    {
+     "name": "discord_partner_sdk.dll",
+     "sha256": "f9953495b0d6263cc0b926e70f00adc2e3dda478e216ac6c8b36ba23840ab8ee",
+     "size": 9882040
+    },
+    {
+     "name": "TwewyCoop.dll",
+     "sha256": "af211005a96d44a37c0e114af229c392ae51c98b6407694dbf5eddc8f7ff2591",
+     "size": 88576
+    },
+    {
+     "name": "Patcher.exe",
+     "sha256": "94e544c16d74dfc675ef4c72e714665857b133336e83be7d7360f0a30b56888c",
+     "size": 19968
+    },
+    {
+     "name": "Mono.Cecil.dll",
+     "sha256": "71c8b01208ab37a5164f5bacd69054899db9fc00f2da87dbd07dc1ee40fc06a8",
+     "size": 360448
+    },
+    {
+     "name": "Mono.Cecil.Rocks.dll",
+     "sha256": "9db3edaa8bc6ccd7ac6e2517c743591658bd6bdd436a146e0eda101d30a1332e",
+     "size": 29696
+    },
+    {
+     "name": "Stub.exe",
+     "sha256": "fe0ccbf4c082dd1ccc172874d112081e27a3dd18ae06e18419563b8e2821b5b1",
+     "size": 168448
+    },
+    {
+     "name": "OFL-Montserrat.txt",
+     "sha256": "8b7141c03fa4f8d44e6345d5d4931709290f0f67875e452e95ac1fd3a027802e",
+     "size": 4400
+    },
+    {
+     "name": "Microsoft.Web.WebView2.Core.dll",
+     "sha256": "d60e6e94245078cb56e44ebd5f360dc04bf18e460136be93bfc4cfca43b98505",
+     "size": 698208
+    },
+    {
+     "name": "Microsoft.Web.WebView2.WinForms.dll",
+     "sha256": "6a9e6856f23c463783c3afb0ca5d78f56324c86657162ccb16d5227b3233b32a",
+     "size": 38752
+    },
+    {
+     "name": "WebView2Loader.dll",
+     "sha256": "3426dcc55fdfb8b5e7ac623cf33b4ccf283fbf68a0c5a65bddfdb4d749a8abee",
+     "size": 194912
+    }
+   ]
+  },
+  {
    "version": "1.9.3",
    "date": "2026-11-18",
    "notes": "Quête du jour : récupérer 15 badges (doublons compris) au lieu de 5 badges différents, appliqué aussi aux combats déjà joués ; le jeu note désormais la quantité de chaque badge obtenu.",
@@ -1078,5 +1140,5 @@
    ]
   }
  ],
- "latest": "1.9.3"
+ "latest": "1.10.0"
 }
