@@ -7,4 +7,4 @@ l'installeur applique le mod à ta propre copie et garde l'original intact.
 2. Choisis le dossier du jeu (celui qui contient `TWEWY Solo.exe`) → *Installer*
 3. Lance **TWEWY Co-op** : les mises à jour te seront proposées dans l'onglet JOUER.
 
-Dernière version : **1.10.2** — Menu F5 : animation d'ouverture comme le Canva (le portrait glisse depuis la gauche, chaque icône, nom et description monte en apparaissant, l'un après l'autre).
+Dernière version : **1.10.3** — Import Spotify : la progression s'affiche en haut des playlists, conversion 4x plus rapide, la playlist importée s'ouvre toute seule.
