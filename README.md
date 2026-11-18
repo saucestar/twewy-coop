@@ -7,4 +7,4 @@ l'installeur applique le mod à ta propre copie et garde l'original intact.
 2. Choisis le dossier du jeu (celui qui contient `TWEWY Solo.exe`) → *Installer*
 3. Lance **TWEWY Co-op** : les mises à jour te seront proposées dans l'onglet JOUER.
 
-Dernière version : **1.12.0** — Ajouter toute une playlist à la file (launcher et menu F6). Quand un menu du mod est ouvert (F5, F6), les clics souris ne passent plus au jeu.
+Dernière version : **1.13.0** — Menu musique F6 refait d'après le Canva : lecteur MP3 (écran = titre en cours, molette = pause / suivant) et panneau PLAYLIST avec flèches pour changer de playlist. Fond : CoopMod\menu\music_bg.png.
