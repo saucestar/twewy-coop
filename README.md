@@ -7,4 +7,4 @@ l'installeur applique le mod à ta propre copie et garde l'original intact.
 2. Choisis le dossier du jeu (celui qui contient `TWEWY Solo.exe`) → *Installer*
 3. Lance **TWEWY Co-op** : les mises à jour te seront proposées dans l'onglet JOUER.
 
-Dernière version : **1.14.0** — Appli téléphone : tes playlists (YouTube + Spotify importées) sont synchronisées avec la page Musique de l'appli, et les playlists Spotify importées sur le téléphone arrivent dans le launcher.
+Dernière version : **1.14.1** — Installation des portraits, sprites des partenaires et sons de rang dans CoopMod.
