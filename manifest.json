@@ -2,6 +2,73 @@
  "app": "twewy-coop",
  "versions": [
   {
+   "version": "1.15.0",
+   "date": "2026-11-19",
+   "notes": "Apple Music : colle un lien de playlist ou d'album Apple Music dans l'onglet MUSIQUE, il est converti en playlist YouTube (comme Spotify) et synchronisé avec l'appli téléphone.",
+   "files": [
+    {
+     "name": "CoopAssets.zip",
+     "sha256": "8e13a42b2530ae630693f533da23c9e6b344ee307928c096e9bc492520993942",
+     "size": 6215062
+    },
+    {
+     "name": "TWEWY Co-op.exe",
+     "sha256": "84b03139b040c66bced7fdaa11be8fcc1eaf300c589cc9b8985890f3d319ed6d",
+     "size": 674304
+    },
+    {
+     "name": "discord_partner_sdk.dll",
+     "sha256": "f9953495b0d6263cc0b926e70f00adc2e3dda478e216ac6c8b36ba23840ab8ee",
+     "size": 9882040
+    },
+    {
+     "name": "TwewyCoop.dll",
+     "sha256": "c150b744417a647cc2fcd4e303a938c4ee6178b33fd9d0d0b8389f465d4fc5f6",
+     "size": 96768
+    },
+    {
+     "name": "Patcher.exe",
+     "sha256": "579e98dd4348f57c27bb1e61675d2df2481e34e3a7c229182752608602f4790b",
+     "size": 20992
+    },
+    {
+     "name": "Mono.Cecil.dll",
+     "sha256": "71c8b01208ab37a5164f5bacd69054899db9fc00f2da87dbd07dc1ee40fc06a8",
+     "size": 360448
+    },
+    {
+     "name": "Mono.Cecil.Rocks.dll",
+     "sha256": "9db3edaa8bc6ccd7ac6e2517c743591658bd6bdd436a146e0eda101d30a1332e",
+     "size": 29696
+    },
+    {
+     "name": "Stub.exe",
+     "sha256": "3786fe1c1e506331d8ae664207721252705f69013599543ac63406edf94d1180",
+     "size": 168448
+    },
+    {
+     "name": "OFL-Montserrat.txt",
+     "sha256": "8b7141c03fa4f8d44e6345d5d4931709290f0f67875e452e95ac1fd3a027802e",
+     "size": 4400
+    },
+    {
+     "name": "Microsoft.Web.WebView2.Core.dll",
+     "sha256": "d60e6e94245078cb56e44ebd5f360dc04bf18e460136be93bfc4cfca43b98505",
+     "size": 698208
+    },
+    {
+     "name": "Microsoft.Web.WebView2.WinForms.dll",
+     "sha256": "6a9e6856f23c463783c3afb0ca5d78f56324c86657162ccb16d5227b3233b32a",
+     "size": 38752
+    },
+    {
+     "name": "WebView2Loader.dll",
+     "sha256": "3426dcc55fdfb8b5e7ac623cf33b4ccf283fbf68a0c5a65bddfdb4d749a8abee",
+     "size": 194912
+    }
+   ]
+  },
+  {
    "version": "1.14.1",
    "date": "2026-11-19",
    "notes": "Installation des portraits, sprites des partenaires et sons de rang dans CoopMod.",
@@ -1765,5 +1832,5 @@
    ]
   }
  ],
- "latest": "1.14.1"
+ "latest": "1.15.0"
 }
